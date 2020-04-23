@@ -1,5 +1,5 @@
 # BodyBreak
-### A real-time image processing game designed for the PYNQ Board using FPGA High-Level Synthesis design
+### Xilinx PYNQ-Z1 FPGA real time image processing game
 
 - Link video
 - To run:
