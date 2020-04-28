@@ -36,28 +36,15 @@ Steps:
 5. Follow in-game instructions on monitor
 6. Wear your bands, break your body!
 
-<! ––
-<p align="center">
-  <img src="https://github.com/RaphaelBijaoui/images/blob/master/BBstartmenu.png">
-</p>
-<p align="center">
-  <i>Start menu</i>
-</p>
-
-<p align="center">
-  <img src="https://github.com/RaphaelBijaoui/images/blob/master/BBgameplay.png">
-</p>
-<p align="center">
-  <i>Gameplay</i>
-</p>
-––>
-
 <p align="center">
   <img src="https://github.com/RaphaelBijaoui/images/blob/master/BBwinningpose.png">
 </p>
-<p align="center">
-  <i>Demonstration of a winning pose!</i>
-</p>
+
+For a more in-depth analysis of this project, have a look at ProjectReport.pdf
+
+If anything, the door is always open. Contact details in bio!
+
+Enjoy :)
 
 
 
