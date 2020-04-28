@@ -5,7 +5,10 @@
 <p align="center">
   <img src="https://github.com/RaphaelBijaoui/images/blob/master/BBlogo.png">
 </p>
-Watch the promo video here: https://drive.google.com/file/d/1r4Y0EkWBfWE3pWS-Mw4BluHcIIVYS1a-/preview
+<p align="center">
+    Watch the promo video <a href=https://drive.google.com/file/d/1r4Y0EkWBfWE3pWS-Mw4BluHcIIVYS1a-/preview> here </a>
+</p>
+
 
 - To run:
 - clone repository
