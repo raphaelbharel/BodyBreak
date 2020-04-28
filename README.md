@@ -1,9 +1,12 @@
 # BodyBreak
 ### Xilinx PYNQ-Z1 FPGA real time image processing game
 
-<iframe src="https://drive.google.com/file/d/1r4Y0EkWBfWE3pWS-Mw4BluHcIIVYS1a-/preview" width="640" height="480"></iframe>
 
-- Link video
+<p align="center">
+  <img src="https://github.com/RaphaelBijaoui/images/blob/master/huffman2.png">
+</p>
+Watch the promo video here: https://drive.google.com/file/d/1r4Y0EkWBfWE3pWS-Mw4BluHcIIVYS1a-/preview
+
 - To run:
 - clone repository
 - Connect and add files to pynq board
