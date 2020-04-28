@@ -6,7 +6,7 @@
   <img src="https://github.com/RaphaelBijaoui/images/blob/master/BBlogo.png">
 </p>
 <p align="center">
-    Watch the promo video <a href=https://drive.google.com/file/d/1r4Y0EkWBfWE3pWS-Mw4BluHcIIVYS1a-/preview> here </a>
+    Watch the promo video <a href=https://drive.google.com/file/d/1r4Y0EkWBfWE3pWS-Mw4BluHcIIVYS1a-/preview> here! </a>
 </p>
 
 
