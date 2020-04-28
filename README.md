@@ -51,10 +51,10 @@ Steps:
 </p>
 
 <p align="center">
-  <img src="https://github.com/RaphaelBijaoui/images/blob/master/BBtimeout.png">
+  <img src="https://github.com/RaphaelBijaoui/images/blob/master/BBwinningpose.png">
 </p>
 <p align="center">
-  <i>Timeout</i>
+  <i>Demonstration of a winning pose!</i>
 </p>
 
 
