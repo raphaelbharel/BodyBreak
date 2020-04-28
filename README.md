@@ -36,7 +36,7 @@ Steps:
 5. Follow in-game instructions on monitor
 6. Wear your bands, break your body!
 
-<! --
+<! ––
 <p align="center">
   <img src="https://github.com/RaphaelBijaoui/images/blob/master/BBstartmenu.png">
 </p>
