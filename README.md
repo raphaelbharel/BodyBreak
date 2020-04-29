@@ -42,9 +42,8 @@ Steps:
 
 For a more in-depth analysis of this project, have a look at ProjectReport.pdf
 
+----------------------------------------------------------------------------------------------------------------------------
+
 If anything, the door is always open. Contact details in bio!
 
 Enjoy :)
-
-
-
